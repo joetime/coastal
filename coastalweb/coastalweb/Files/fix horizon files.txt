@@ -1,0 +1,20 @@
+1. replace commas in row C => !COMMA!
+
+2. Look for 0000s
+
+3. Save as CSV
+
+4. Replace ^ => "
+5. Replace $ => "
+6. Replace , => ","
+7. Replace !COMMA! => ,
+
+search for "+"
+
+replace 5766 w/ placeholder first
+
+8. search for 4 digit nums "[0-9]{4}"
+	
+
+9. Remove totals row
+
